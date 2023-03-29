@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\bin\Debug\net7.0\Atividade-3-BackEnd.exe
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\bin\Debug\net7.0\Atividade-3-BackEnd.deps.json
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\bin\Debug\net7.0\Atividade-3-BackEnd.runtimeconfig.json
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\bin\Debug\net7.0\Atividade-3-BackEnd.dll
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\bin\Debug\net7.0\Atividade-3-BackEnd.pdb
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\Atividade-3-BackEnd.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\Atividade-3-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\Atividade-3-BackEnd.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\Atividade-3-BackEnd.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\Atividade-3-BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\Atividade-3-BackEnd.dll
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\refint\Atividade-3-BackEnd.dll
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\Atividade-3-BackEnd.pdb
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\Atividade-3-BackEnd.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Back-End\Atividade-3-BackEnd\obj\Debug\net7.0\ref\Atividade-3-BackEnd.dll
