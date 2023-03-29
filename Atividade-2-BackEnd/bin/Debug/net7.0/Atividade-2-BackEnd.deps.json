@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Atividade-2-BackEnd/1.0.0": {
+        "runtime": {
+          "Atividade-2-BackEnd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade-2-BackEnd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
