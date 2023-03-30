@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\bin\Debug\net7.0\estrutura_condicional-ex003.exe
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\bin\Debug\net7.0\estrutura_condicional-ex003.deps.json
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\bin\Debug\net7.0\estrutura_condicional-ex003.runtimeconfig.json
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\bin\Debug\net7.0\estrutura_condicional-ex003.dll
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\bin\Debug\net7.0\estrutura_condicional-ex003.pdb
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\estrutura_condicional-ex003.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\estrutura_condicional-ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\estrutura_condicional-ex003.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\estrutura_condicional-ex003.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\estrutura_condicional-ex003.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\estrutura_condicional-ex003.dll
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\refint\estrutura_condicional-ex003.dll
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\estrutura_condicional-ex003.pdb
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\estrutura_condicional-ex003.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\estrutura_condicional-ex003\obj\Debug\net7.0\ref\estrutura_condicional-ex003.dll

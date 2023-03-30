@@ -3,9 +3,9 @@
 //Observação: obter a data atual do sistema (Pesquisar na documentação)
 
 Console.WriteLine($"Digite sua Data de Nascimento:");
-int anoDeNascimento = int.Parse(Console.ReadLine());
+int anoDeNascimento = int.Parse(Console.ReadLine()!);
 
-int idade = DateTime.Today.Year - anoDeNascimento;
+int idade = DateTime.Now.Year - anoDeNascimento;
 
 int semanas = idade * 52;
 

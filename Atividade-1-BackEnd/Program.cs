@@ -6,7 +6,7 @@ int idade = int.Parse(Console.ReadLine());
 
 int meses = idade * 12;
 
-int dias = meses * 30;
+int dias = idade * 365;
 
 int horas = dias * 24;
 

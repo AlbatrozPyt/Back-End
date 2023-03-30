@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\backend-1\bin\Debug\net7.0\backend-1.exe
+C:\Users\24004134870\Desktop\backend-1\bin\Debug\net7.0\backend-1.deps.json
+C:\Users\24004134870\Desktop\backend-1\bin\Debug\net7.0\backend-1.runtimeconfig.json
+C:\Users\24004134870\Desktop\backend-1\bin\Debug\net7.0\backend-1.dll
+C:\Users\24004134870\Desktop\backend-1\bin\Debug\net7.0\backend-1.pdb
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\backend-1.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\backend-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\backend-1.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\backend-1.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\backend-1.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\backend-1.dll
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\refint\backend-1.dll
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\backend-1.pdb
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\backend-1.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\backend-1\obj\Debug\net7.0\ref\backend-1.dll
