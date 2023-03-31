@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\24004134870\\Desktop\\estrutura_condicional-ex002\\estrutura_condicional-ex002.csproj": {}
+    "C:\\Users\\24004134870\\Desktop\\Back-End\\estrutura_condicional-ex002\\estrutura_condicional-ex002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\24004134870\\Desktop\\estrutura_condicional-ex002\\estrutura_condicional-ex002.csproj": {
+    "C:\\Users\\24004134870\\Desktop\\Back-End\\estrutura_condicional-ex002\\estrutura_condicional-ex002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\estrutura_condicional-ex002\\estrutura_condicional-ex002.csproj",
+        "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Back-End\\estrutura_condicional-ex002\\estrutura_condicional-ex002.csproj",
         "projectName": "estrutura_condicional-ex002",
-        "projectPath": "C:\\Users\\24004134870\\Desktop\\estrutura_condicional-ex002\\estrutura_condicional-ex002.csproj",
+        "projectPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\estrutura_condicional-ex002\\estrutura_condicional-ex002.csproj",
         "packagesPath": "C:\\Users\\24004134870\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\24004134870\\Desktop\\estrutura_condicional-ex002\\obj\\",
+        "outputPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\estrutura_condicional-ex002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\24004134870\\AppData\\Roaming\\NuGet\\NuGet.Config",
