@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "estruturas_condicionais_lista-2-ex005/1.0.0": {
+        "runtime": {
+          "estruturas_condicionais_lista-2-ex005.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estruturas_condicionais_lista-2-ex005/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
