@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\bin\Debug\net6.0\Switch-Case.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\bin\Debug\net6.0\Switch-Case.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\bin\Debug\net6.0\Switch-Case.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\bin\Debug\net6.0\Switch-Case.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\bin\Debug\net6.0\Switch-Case.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\Switch-Case.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\Switch-Case.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\Switch-Case.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\refint\Switch-Case.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\Switch-Case.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\Switch-Case.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Switch-Case\obj\Debug\net6.0\ref\Switch-Case.dll
