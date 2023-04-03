@@ -1,10 +1,3 @@
-
-s { text-decoration:none; } 
-em { font-style: normal; font-weight: bold; }
-
-s { color: green }
-em { color: blue }
-
 # Back-End
 
 ## Exercicios Back-End de C#
