@@ -1,9 +1,7 @@
-// resets
-s { text-decoration:none; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
 
+s { text-decoration:none; } 
+em { font-style: normal; font-weight: bold; }
 
-// colors
 s { color: green }
 em { color: blue }
 
