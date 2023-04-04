@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Tests\bin\Debug\net7.0\Tests.exe
+C:\Users\24004134870\Desktop\Tests\bin\Debug\net7.0\Tests.deps.json
+C:\Users\24004134870\Desktop\Tests\bin\Debug\net7.0\Tests.runtimeconfig.json
+C:\Users\24004134870\Desktop\Tests\bin\Debug\net7.0\Tests.dll
+C:\Users\24004134870\Desktop\Tests\bin\Debug\net7.0\Tests.pdb
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\Tests.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\Tests.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\Tests.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\Tests.dll
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\refint\Tests.dll
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\Tests.pdb
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\Tests.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Tests\obj\Debug\net7.0\ref\Tests.dll

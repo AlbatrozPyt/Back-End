@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\24004134870\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Back-End\\Switch-Case_Bebidas-com-Gelo\\Switch-Case.csproj",
-      "projectName": "Switch-Case",
-      "projectPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\Switch-Case_Bebidas-com-Gelo\\Switch-Case.csproj",
+      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Tests\\Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Users\\24004134870\\Desktop\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\24004134870\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\Switch-Case_Bebidas-com-Gelo\\obj\\",
+      "outputPath": "C:\\Users\\24004134870\\Desktop\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\24004134870\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",

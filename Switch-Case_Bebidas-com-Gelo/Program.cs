@@ -50,8 +50,8 @@ switch (bebida) {
 
 Console.ForegroundColor = ConsoleColor.Cyan;
 Console.Write($"Você quer acrescentar gelo na bebida ? [s/n] -> ");
-    string gelo = Console.ReadLine()!.ToUpper();
-    if (gelo == "S") {
+    char gelo = char.Parse(Console.ReadLine()!.ToUpper());
+    if (gelo == 'S') {
         Console.WriteLine($"O gelo foi adicionado !!!");
     }
     else {
