@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "backend-1/1.0.0": {
+      "atividade_estrutura_de_repeticao/1.0.0": {
         "runtime": {
-          "backend-1.dll": {}
+          "atividade_estrutura_de_repeticao.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "backend-1/1.0.0": {
+    "atividade_estrutura_de_repeticao/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

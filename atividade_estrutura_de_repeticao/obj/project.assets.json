@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\backend-1\\backend-1.csproj",
-      "projectName": "backend-1",
-      "projectPath": "C:\\Users\\24004134870\\Desktop\\backend-1\\backend-1.csproj",
+      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\atividade_estrutura_de_repeticao\\atividade_estrutura_de_repeticao.csproj",
+      "projectName": "atividade_estrutura_de_repeticao",
+      "projectPath": "C:\\Users\\24004134870\\Desktop\\atividade_estrutura_de_repeticao\\atividade_estrutura_de_repeticao.csproj",
       "packagesPath": "C:\\Users\\24004134870\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\24004134870\\Desktop\\backend-1\\obj\\",
+      "outputPath": "C:\\Users\\24004134870\\Desktop\\atividade_estrutura_de_repeticao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\24004134870\\AppData\\Roaming\\NuGet\\NuGet.Config",

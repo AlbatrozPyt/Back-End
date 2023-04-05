@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\atividade_estrutura_de_repeticao.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\atividade_estrutura_de_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\atividade_estrutura_de_repeticao.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\atividade_estrutura_de_repeticao.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\atividade_estrutura_de_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\bin\Debug\net7.0\atividade_estrutura_de_repeticao.exe
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\bin\Debug\net7.0\atividade_estrutura_de_repeticao.deps.json
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\bin\Debug\net7.0\atividade_estrutura_de_repeticao.runtimeconfig.json
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\bin\Debug\net7.0\atividade_estrutura_de_repeticao.dll
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\bin\Debug\net7.0\atividade_estrutura_de_repeticao.pdb
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\atividade_estrutura_de_repeticao.dll
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\refint\atividade_estrutura_de_repeticao.dll
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\atividade_estrutura_de_repeticao.pdb
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\atividade_estrutura_de_repeticao.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\atividade_estrutura_de_repeticao\obj\Debug\net7.0\ref\atividade_estrutura_de_repeticao.dll
