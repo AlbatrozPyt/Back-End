@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Estrutura_For\bin\Debug\net7.0\Estrutura_For.exe
+C:\Users\24004134870\Desktop\Estrutura_For\bin\Debug\net7.0\Estrutura_For.deps.json
+C:\Users\24004134870\Desktop\Estrutura_For\bin\Debug\net7.0\Estrutura_For.runtimeconfig.json
+C:\Users\24004134870\Desktop\Estrutura_For\bin\Debug\net7.0\Estrutura_For.dll
+C:\Users\24004134870\Desktop\Estrutura_For\bin\Debug\net7.0\Estrutura_For.pdb
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\Estrutura_For.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\Estrutura_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\Estrutura_For.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\Estrutura_For.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\Estrutura_For.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\Estrutura_For.dll
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\refint\Estrutura_For.dll
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\Estrutura_For.pdb
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\Estrutura_For.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Estrutura_For\obj\Debug\net7.0\ref\Estrutura_For.dll
