@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LIsta_de_Exercicios_Estrutura_de_Repeticao-ex002/1.0.0": {
+        "runtime": {
+          "LIsta_de_Exercicios_Estrutura_de_Repeticao-ex002.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LIsta_de_Exercicios_Estrutura_de_Repeticao-ex002/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

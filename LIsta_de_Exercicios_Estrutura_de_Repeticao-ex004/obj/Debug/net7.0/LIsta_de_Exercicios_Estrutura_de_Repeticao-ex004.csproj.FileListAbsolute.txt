@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.exe
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.deps.json
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.runtimeconfig.json
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.dll
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.pdb
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.dll
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\refint\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.dll
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.pdb
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004\obj\Debug\net7.0\ref\LIsta_de_Exercicios_Estrutura_de_Repeticao-ex004.dll
