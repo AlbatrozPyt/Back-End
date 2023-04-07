@@ -13,3 +13,18 @@ C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\
 C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.pdb
 C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.genruntimeconfig.cache
 C:\Users\24004134870\Desktop\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\ref\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\bin\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\refint\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO\obj\Debug\net7.0\ref\LIsta_de_Exercicios_Estrutura_de_Repeticao-DESAFIO.dll
