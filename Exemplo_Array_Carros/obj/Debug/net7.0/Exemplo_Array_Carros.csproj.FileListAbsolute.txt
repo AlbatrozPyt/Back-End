@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\bin\Debug\net7.0\Exemplo_Array_Carros.exe
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\bin\Debug\net7.0\Exemplo_Array_Carros.deps.json
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\bin\Debug\net7.0\Exemplo_Array_Carros.runtimeconfig.json
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\bin\Debug\net7.0\Exemplo_Array_Carros.dll
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\bin\Debug\net7.0\Exemplo_Array_Carros.pdb
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\Exemplo_Array_Carros.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\Exemplo_Array_Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\Exemplo_Array_Carros.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\Exemplo_Array_Carros.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\Exemplo_Array_Carros.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\Exemplo_Array_Carros.dll
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\refint\Exemplo_Array_Carros.dll
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\Exemplo_Array_Carros.pdb
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\Exemplo_Array_Carros.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Exemplo_Array_Carros\obj\Debug\net7.0\ref\Exemplo_Array_Carros.dll

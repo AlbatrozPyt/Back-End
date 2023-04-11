@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Desafio_Array\bin\Debug\net7.0\Desafio_Array.exe
+C:\Users\24004134870\Desktop\Desafio_Array\bin\Debug\net7.0\Desafio_Array.deps.json
+C:\Users\24004134870\Desktop\Desafio_Array\bin\Debug\net7.0\Desafio_Array.runtimeconfig.json
+C:\Users\24004134870\Desktop\Desafio_Array\bin\Debug\net7.0\Desafio_Array.dll
+C:\Users\24004134870\Desktop\Desafio_Array\bin\Debug\net7.0\Desafio_Array.pdb
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\Desafio_Array.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\Desafio_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\Desafio_Array.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\Desafio_Array.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\Desafio_Array.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\Desafio_Array.dll
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\refint\Desafio_Array.dll
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\Desafio_Array.pdb
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\Desafio_Array.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Desafio_Array\obj\Debug\net7.0\ref\Desafio_Array.dll
