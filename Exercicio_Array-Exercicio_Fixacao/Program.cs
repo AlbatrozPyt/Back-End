@@ -5,12 +5,12 @@ Console.WriteLine($"");
 
 for (int i = 0; i < 5; i++) {
     Console.BackgroundColor = ConsoleColor.Blue;
-    Console.Write("Digite seu nome: ");
+    Console.Write($"Digite o {i+1}º nome : ");
     nomes[i] = Console.ReadLine()!;
     Console.ResetColor();
 
     Console.BackgroundColor = ConsoleColor.Green;
-    Console.Write("Digite sua idade: ");
+    Console.Write($"Digite a {i+1}º idade: ");
     idade[i] = int.Parse(Console.ReadLine()!);
 
     Console.ResetColor();
@@ -41,4 +41,3 @@ for (int r = 0; r < 5; r++) {
     Console.WriteLine($"");
 }
 
-    

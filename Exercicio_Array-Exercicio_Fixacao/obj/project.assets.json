@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Exercicio_Array-Exercicio_Fixacao\\Exercicio_Array-Exercicio_Fixacao.csproj",
+      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Back-End\\Exercicio_Array-Exercicio_Fixacao\\Exercicio_Array-Exercicio_Fixacao.csproj",
       "projectName": "Exercicio_Array-Exercicio_Fixacao",
-      "projectPath": "C:\\Users\\24004134870\\Desktop\\Exercicio_Array-Exercicio_Fixacao\\Exercicio_Array-Exercicio_Fixacao.csproj",
+      "projectPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\Exercicio_Array-Exercicio_Fixacao\\Exercicio_Array-Exercicio_Fixacao.csproj",
       "packagesPath": "C:\\Users\\24004134870\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\24004134870\\Desktop\\Exercicio_Array-Exercicio_Fixacao\\obj\\",
+      "outputPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\Exercicio_Array-Exercicio_Fixacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\24004134870\\AppData\\Roaming\\NuGet\\NuGet.Config",
