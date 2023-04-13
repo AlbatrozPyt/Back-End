@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex006.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex006.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex006.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex006.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex006.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex006.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex006.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex006.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex006.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex006.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\refint\LIstaDeExerciocios12.04-ex006.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex006.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex006.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\LIstaDeExerciocios12.04-ex006\obj\Debug\net7.0\ref\LIstaDeExerciocios12.04-ex006.dll
