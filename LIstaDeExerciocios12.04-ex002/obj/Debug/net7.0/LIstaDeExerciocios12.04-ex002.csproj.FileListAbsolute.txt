@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex002.exe
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex002.deps.json
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex002.runtimeconfig.json
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex002.dll
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\bin\Debug\net7.0\LIstaDeExerciocios12.04-ex002.pdb
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex002.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex002.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex002.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex002.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex002.dll
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\refint\LIstaDeExerciocios12.04-ex002.dll
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex002.pdb
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\LIstaDeExerciocios12.04-ex002.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\LIstaDeExerciocios12.04-ex002\obj\Debug\net7.0\ref\LIstaDeExerciocios12.04-ex002.dll

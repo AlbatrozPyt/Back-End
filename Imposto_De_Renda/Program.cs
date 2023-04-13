@@ -48,3 +48,7 @@ else {
 Console.ForegroundColor = ConsoleColor.Cyan;
 Console.WriteLine($"O valor do Imposto é de {porcento} - R${Math.Round(LeaoFaminto(renda), 2)}");
 Console.ResetColor();
+
+// Formatacao de resposta de valores.
+// using System.Globalization;
+// resultado.ToString("C", new CultureInfo("pt-BR"));
