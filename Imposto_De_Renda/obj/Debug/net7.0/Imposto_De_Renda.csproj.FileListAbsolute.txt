@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Imposto_De_Renda\bin\Debug\net7.0\Imposto_De_Renda.exe
+C:\Users\24004134870\Desktop\Imposto_De_Renda\bin\Debug\net7.0\Imposto_De_Renda.deps.json
+C:\Users\24004134870\Desktop\Imposto_De_Renda\bin\Debug\net7.0\Imposto_De_Renda.runtimeconfig.json
+C:\Users\24004134870\Desktop\Imposto_De_Renda\bin\Debug\net7.0\Imposto_De_Renda.dll
+C:\Users\24004134870\Desktop\Imposto_De_Renda\bin\Debug\net7.0\Imposto_De_Renda.pdb
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\Imposto_De_Renda.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\Imposto_De_Renda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\Imposto_De_Renda.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\Imposto_De_Renda.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\Imposto_De_Renda.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\Imposto_De_Renda.dll
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\refint\Imposto_De_Renda.dll
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\Imposto_De_Renda.pdb
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\Imposto_De_Renda.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Imposto_De_Renda\obj\Debug\net7.0\ref\Imposto_De_Renda.dll
