@@ -40,3 +40,5 @@ string busca = Console.ReadLine()!.ToUpper();
 Console.WriteLine($"{BuscaNome(busca,pessoas)}");
  
 Console.ResetColor();
+
+// Console.WriteLine(nomeEncontrado ? "ACHEI" : "Não ACHEI"); -> Operador Ternario.
