@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Back-End\\Projeto_De_Passagens_Aereas\\Projeto_De_Passagens_Aereas.csproj",
-      "projectName": "Projeto_De_Passagens_Aereas",
-      "projectPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\Projeto_De_Passagens_Aereas\\Projeto_De_Passagens_Aereas.csproj",
+      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Sistema_de_Produtos\\Sistema_de_Produtos.csproj",
+      "projectName": "Sistema_de_Produtos",
+      "projectPath": "C:\\Users\\24004134870\\Desktop\\Sistema_de_Produtos\\Sistema_de_Produtos.csproj",
       "packagesPath": "C:\\Users\\24004134870\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\Projeto_De_Passagens_Aereas\\obj\\",
+      "outputPath": "C:\\Users\\24004134870\\Desktop\\Sistema_de_Produtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\24004134870\\AppData\\Roaming\\NuGet\\NuGet.Config",

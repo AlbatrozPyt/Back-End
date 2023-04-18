@@ -28,3 +28,18 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Projeto_De_Passagens_Aereas\o
 C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\ref\Projeto_De_Passagens_Aereas.dll
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\bin\Debug\net7.0\Projeto_De_Passagens_Aereas.exe
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\bin\Debug\net7.0\Projeto_De_Passagens_Aereas.deps.json
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\bin\Debug\net7.0\Projeto_De_Passagens_Aereas.runtimeconfig.json
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\bin\Debug\net7.0\Projeto_De_Passagens_Aereas.dll
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\bin\Debug\net7.0\Projeto_De_Passagens_Aereas.pdb
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.dll
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\refint\Projeto_De_Passagens_Aereas.dll
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.pdb
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\Projeto_De_Passagens_Aereas.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Back-End\Projeto_De_Passagens_Aereas\obj\Debug\net7.0\ref\Projeto_De_Passagens_Aereas.dll

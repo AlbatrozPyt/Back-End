@@ -1,4 +1,6 @@
-﻿static float Soma(float n1, float n2) {
+﻿// tipo tipoDado NomeFuncao(parametros ou argumentos) { Corpo da funcao }
+
+static float Soma(float n1, float n2) {
     float t = n1 + n2;
     return t;
 }
