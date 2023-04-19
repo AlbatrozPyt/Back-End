@@ -95,14 +95,15 @@ while (true) {
             Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine($"Numero maximo de produtos cadastrados atingido !!!");
             Console.ResetColor();
-            opcao = "";
+            opcao = "2";
+            Thread.Sleep(2000);
         }
 
     if (opcao == "1") {
         CadastrarProduto(nomeProduto, precoProduto, promoProduto, cont);
         Console.WriteLine($"");
         Console.ForegroundColor = ConsoleColor.DarkCyan;
-        Console.WriteLine($"{cont+1} cadastros de 10.");
+        Console.WriteLine($"{cont+1} cadastro(s) de 10.");
         cont++;
         Console.ResetColor();
     }
@@ -118,7 +119,7 @@ while (true) {
             Console.WriteLine(@$"
             Nome do produto: {nomeProduto[i]}
             Preço do produto: {precoProduto[i].ToString("C", new CultureInfo("pt-BR"))} 
-            Promoção: {promoProduto[i]}
+            Promoção: {promoProduto[i]} ({(promoProduto[i] == true ? "Com Promoção" : "Sem Promoção")})
             ");
         }
         Console.ResetColor();

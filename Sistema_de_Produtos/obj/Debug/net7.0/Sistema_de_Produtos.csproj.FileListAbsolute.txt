@@ -28,3 +28,18 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Sistema_de_Produtos\obj\Debug
 C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\ref\Sistema_de_Produtos.dll
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\bin\Debug\net7.0\Sistema_de_Produtos.exe
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\bin\Debug\net7.0\Sistema_de_Produtos.deps.json
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\bin\Debug\net7.0\Sistema_de_Produtos.runtimeconfig.json
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\bin\Debug\net7.0\Sistema_de_Produtos.dll
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\bin\Debug\net7.0\Sistema_de_Produtos.pdb
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.dll
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\refint\Sistema_de_Produtos.dll
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.pdb
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\Sistema_de_Produtos.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Back-End\Sistema_de_Produtos\obj\Debug\net7.0\ref\Sistema_de_Produtos.dll
