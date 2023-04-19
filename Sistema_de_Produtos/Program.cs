@@ -39,15 +39,24 @@ static void CadastrarProduto(string[] nomep, float[] precop, bool[] promo, int c
     preco = float.Parse(Console.ReadLine()!);
     precop[cont] = (preco);
 
-    Console.Write($"O produto esta em promoção ? [S/N]:  ");
-    p = Console.ReadLine()!.ToUpper();
+    do { 
+        Console.ForegroundColor = ConsoleColor.DarkRed;
+        Console.Write($"O produto esta em promoção ? [S/N]:  ");
+        p = Console.ReadLine()!.ToUpper();
+        if (p != "S" && p != "N") {
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.WriteLine($"ERRO, digite apenas S ou N.");
+            Console.ResetColor();
+        }
+    } while (p != "S" && p != "N");
 
     if (p == "S") {
         promo[cont] = (true);
     }
-    else {
+    else if (p == "N") {
         promo[cont] = (false);
     }
+    
     Console.ResetColor();
 }
 
@@ -60,6 +69,7 @@ string opcao = "";
 Console.WriteLine($"");
 
 while (true) {
+    Thread.Sleep(2000);
     Console.ForegroundColor = ConsoleColor.Yellow;
     Console.WriteLine(@$"
     -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -80,9 +90,21 @@ while (true) {
     opcao = Console.ReadLine()!;
     Console.ResetColor();
     
+     if (cont == 10 && opcao == "1") {
+            Console.WriteLine($"");
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.WriteLine($"Numero maximo de produtos cadastrados atingido !!!");
+            Console.ResetColor();
+            opcao = "";
+        }
+
     if (opcao == "1") {
         CadastrarProduto(nomeProduto, precoProduto, promoProduto, cont);
+        Console.WriteLine($"");
+        Console.ForegroundColor = ConsoleColor.DarkCyan;
+        Console.WriteLine($"{cont+1} cadastros de 10.");
         cont++;
+        Console.ResetColor();
     }
 
     else if (opcao == "2") {
@@ -109,5 +131,10 @@ while (true) {
         Thread.Sleep(1000);
         Console.Clear();
         break;
+    }
+    else {
+        Console.BackgroundColor = ConsoleColor.Red;
+        Console.WriteLine($"ERRO, digite apenas as opções apresentadas !!!");
+        Console.ResetColor();
     }
 }    
