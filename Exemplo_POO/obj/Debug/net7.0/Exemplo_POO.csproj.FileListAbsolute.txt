@@ -13,3 +13,18 @@ C:\Users\24004134870\Desktop\Exemplo_POO\obj\Debug\net7.0\refint\Exemplo_POO.dll
 C:\Users\24004134870\Desktop\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.pdb
 C:\Users\24004134870\Desktop\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.genruntimeconfig.cache
 C:\Users\24004134870\Desktop\Exemplo_POO\obj\Debug\net7.0\ref\Exemplo_POO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\refint\Exemplo_POO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\bin\Debug\net7.0\Exemplo_POO.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\bin\Debug\net7.0\Exemplo_POO.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\bin\Debug\net7.0\Exemplo_POO.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\bin\Debug\net7.0\Exemplo_POO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\bin\Debug\net7.0\Exemplo_POO.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\Exemplo_POO.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\Exemplo_POO\obj\Debug\net7.0\ref\Exemplo_POO.dll
