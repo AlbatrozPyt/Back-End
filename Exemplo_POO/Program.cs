@@ -1,8 +1,8 @@
 ﻿using Exemplo_POO;
 
-Personagem p1 = new Personagem();
+List<Personagem> list = new List<Personagem>();
+List<Personagem> list2 = new List<Personagem>();
 string opcao = "";
-int cont = 0;
 
 do
 {   
@@ -36,8 +36,6 @@ do
     }
 
     if (opcao == "1") {
-        List<Personagem> list = new List<Personagem>();
-        
         Console.WriteLine($"");
         
         Console.ForegroundColor = ConsoleColor.DarkGreen;
@@ -48,21 +46,19 @@ do
         ");
         
         Console.Write($"Informe o nome do personagem: ");
-        p1.nome = Console.ReadLine()!;
+        string nome = Console.ReadLine()!;
 
         Console.Write($"Informe a idade do personagem: ");
-        p1.idade = int.Parse(Console.ReadLine()!);
+        int idade = int.Parse(Console.ReadLine()!);
 
-        Console.Write($"Informe o armadura do personagem: ");
-        p1.armadura = Console.ReadLine()!;
+        Console.Write($"Informe a habilidade do personagem: ");
+        string habilidade = Console.ReadLine()!;
 
-        Console.Write($"Informe a IA do personagem: ");
-        p1.ia = Console.ReadLine()!;
         Console.WriteLine($"=-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-=");
 
         Console.ResetColor();
-        
-        cont++;
+  
+        list.Add(new Personagem(nome, idade, habilidade));
     }
 
     else if (opcao == "2") {
@@ -75,16 +71,8 @@ do
         =-==-==-==-==-==-==-==-==-==-=
         ");
         
-        List<Personagem> list = new List<Personagem>();
-        list.Add(p1);
-
         foreach (var item in list) {
-        Console.WriteLine(@$"
-        Nome do Personagem: {item.nome}
-        Idade do Personagem: {item.idade}
-        Armadura do Personagem: {item.armadura}
-        IA do Personagem: {item.ia}
-        ");
+            Console.WriteLine(item);
         }
 
         Console.WriteLine($"=-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-=");
@@ -100,5 +88,6 @@ do
         Console.Clear();
         break;
     }
+
 } while(true);
 
