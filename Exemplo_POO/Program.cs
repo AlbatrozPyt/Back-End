@@ -1,7 +1,6 @@
 ﻿using Exemplo_POO;
 
 List<Personagem> list = new List<Personagem>();
-List<Personagem> list2 = new List<Personagem>();
 string opcao = "";
 
 do
