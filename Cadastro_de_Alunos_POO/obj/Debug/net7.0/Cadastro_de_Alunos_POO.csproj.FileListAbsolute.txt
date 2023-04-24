@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\bin\Debug\net7.0\Cadastro_de_Alunos_POO.exe
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\bin\Debug\net7.0\Cadastro_de_Alunos_POO.deps.json
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\bin\Debug\net7.0\Cadastro_de_Alunos_POO.runtimeconfig.json
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\bin\Debug\net7.0\Cadastro_de_Alunos_POO.dll
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\bin\Debug\net7.0\Cadastro_de_Alunos_POO.pdb
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\Cadastro_de_Alunos_POO.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\Cadastro_de_Alunos_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\Cadastro_de_Alunos_POO.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\Cadastro_de_Alunos_POO.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\Cadastro_de_Alunos_POO.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\Cadastro_de_Alunos_POO.dll
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\refint\Cadastro_de_Alunos_POO.dll
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\Cadastro_de_Alunos_POO.pdb
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\Cadastro_de_Alunos_POO.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Cadastro_de_Alunos_POO\obj\Debug\net7.0\ref\Cadastro_de_Alunos_POO.dll
