@@ -89,7 +89,7 @@ Console.WriteLine(@$"
 2) {al.VerMediaFinal()}
 3) Idade: {al.idade}
 4) RG: {al.rg}
-5) Bolsa: {al.bolsista}
+5) Bolsa: {al.bolsista} ({(al.bolsista == true ? "Bolsista" : "Nao bolsista")})
 6) Media Final: {al.mediaFinal}
 7) {al.VerMensalidade()}
 ");
