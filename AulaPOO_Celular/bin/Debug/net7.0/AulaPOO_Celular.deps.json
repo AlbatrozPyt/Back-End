@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AulaPOO_Celular/1.0.0": {
+        "runtime": {
+          "AulaPOO_Celular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaPOO_Celular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
