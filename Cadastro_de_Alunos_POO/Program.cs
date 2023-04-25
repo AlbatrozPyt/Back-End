@@ -62,9 +62,7 @@ do {
 
 } while (bolsa != "S" && bolsa != "N");
 
-if (bolsa == "S") {
-    al.bolsista = true;
-}
+al.bolsista = bolsa == "S" ? true : false; 
 
 Console.WriteLine($"");
 
