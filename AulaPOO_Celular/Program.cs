@@ -10,6 +10,15 @@ string opcao;
 
 Console.WriteLine($"");
 
+Console.ForegroundColor = ConsoleColor.Blue;
+Console.WriteLine(@$"
+-=-=-=-=-=-
+  CELULAR
+-=-=-=-=-=-
+");
+Console.ResetColor();
+
+Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.Write("Cor do Celular: ");
 cel.Cor = Console.ReadLine()!;
 
@@ -23,11 +32,12 @@ Console.WriteLine($"");
 Console.Write("Tamanho do Celular: ");
 cel.Tamanho = Console.ReadLine()!;
 
-list.Add(cel);
+Console.ResetColor();
 
 Console.WriteLine($"");
 
 do {
+    Console.ForegroundColor = ConsoleColor.Yellow;
     Console.Write("O celular esta ligado ? [S/N]: ");
     opcao = Console.ReadLine()!.ToUpper();
     
@@ -36,6 +46,7 @@ do {
         Console.WriteLine($"ERRO, apenas S ou N.");
         Console.ResetColor();
     }
+    Console.ResetColor();
 
 } while (opcao != "S" && opcao != "N");
 
@@ -50,6 +61,7 @@ while (true) {
     
     do {
 
+        Console.ForegroundColor = ConsoleColor.DarkGreen;
         if (cel.Ligado == true) {
             Console.WriteLine(@$"
             -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -63,19 +75,21 @@ while (true) {
             ");
         }
         else {
-    Console.WriteLine(@$"
-    AVISO PARA MEXER NO CELULAR E PRECISO LIGA-LO !!!
-    -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-    Opcoes:
-            1 - Ligar Celular
-            2 - Fazer Ligacao
-            3 - Enviar Mensagem
-            4 - Desligar Celular
-            5 - Sistema
-            0 - Finalizar Programa
-    ");
-   } 
-   
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.WriteLine(@$"
+            AVISO PARA MEXER NO CELULAR E PRECISO LIGA-LO !!!
+            -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+            Opcoes:
+                    1 - Ligar Celular
+                    2 - Fazer Ligacao
+                    3 - Enviar Mensagem
+                    4 - Desligar Celular
+                    5 - Sistema
+                    0 - Finalizar Programa
+            ");
+        } 
+        
+        Console.ForegroundColor = ConsoleColor.Yellow;
         Console.Write("Escolha uma opcao: ");
         opcao = Console.ReadLine()!;
 
@@ -84,11 +98,16 @@ while (true) {
             Console.WriteLine($"ERRO, digite Apenas as opcoes do menu !!!");
             Console.ResetColor();
         }
+
+        Console.ResetColor();
    } while (opcao != "0" && opcao != "1" && opcao != "2" && opcao != "3" && opcao != "4" && opcao != "5");
 
     if (cel.Ligado == false && opcao != "0" && opcao != "1" && opcao != "4" && opcao != "5") {
+        Console.WriteLine($"");
+        Console.BackgroundColor = ConsoleColor.DarkBlue;
         Console.WriteLine($"Aviso!!! o celular precisa ser ligado para que voce possa usa-lo !!!");
         opcao = "";
+        Console.ResetColor();
     }
 
     if (opcao == "0") {
