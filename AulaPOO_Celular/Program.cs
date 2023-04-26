@@ -84,7 +84,7 @@ while (true) {
             Console.WriteLine($"ERRO, digite Apenas as opcoes do menu !!!");
             Console.ResetColor();
         }
-   } while (opcao != "0" && opcao != "1" && opcao != "2" && opcao != "3" && opcao != "4");
+   } while (opcao != "0" && opcao != "1" && opcao != "2" && opcao != "3" && opcao != "4" && opcao != "5");
 
     if (cel.Ligado == false && opcao != "0" && opcao != "1" && opcao != "4" && opcao != "5") {
         Console.WriteLine($"Aviso!!! o celular precisa ser ligado para que voce possa usa-lo !!!");
