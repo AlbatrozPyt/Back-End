@@ -5,6 +5,7 @@
 using AulaPOO_Celular;
 
 Celular cel = new Celular();
+List<Celular> list = new List<Celular>();
 string opcao;
 
 Console.WriteLine($"");
@@ -21,6 +22,8 @@ Console.WriteLine($"");
 
 Console.Write("Tamanho do Celular: ");
 cel.Tamanho = Console.ReadLine()!;
+
+list.Add(cel);
 
 Console.WriteLine($"");
 
@@ -41,6 +44,8 @@ cel.Ligado = opcao == "S" ? true : false;
 Console.WriteLine($"");
 
 while (true) {
+    Thread.Sleep(1000);
+
     Console.WriteLine($"");
     
     do {
@@ -53,6 +58,8 @@ while (true) {
                     2 - Fazer Ligacao
                     3 - Enviar Mensagem
                     4 - Desligar Celular
+                    5 - Sistema
+                    0 - Finalizar Programa
             ");
         }
         else {
@@ -64,6 +71,7 @@ while (true) {
             2 - Fazer Ligacao
             3 - Enviar Mensagem
             4 - Desligar Celular
+            5 - Sistema
             0 - Finalizar Programa
     ");
    } 
@@ -71,31 +79,45 @@ while (true) {
         Console.Write("Escolha uma opcao: ");
         opcao = Console.ReadLine()!;
 
-        if (opcao != "0" && opcao != "1" && opcao != "2" && opcao != "3" && opcao != "4") {
+        if (opcao != "0" && opcao != "1" && opcao != "2" && opcao != "3" && opcao != "4" && opcao != "5") {
             Console.BackgroundColor = ConsoleColor.DarkRed;
             Console.WriteLine($"ERRO, digite Apenas as opcoes do menu !!!");
             Console.ResetColor();
         }
    } while (opcao != "0" && opcao != "1" && opcao != "2" && opcao != "3" && opcao != "4");
 
+    if (cel.Ligado == false && opcao != "0" && opcao != "1" && opcao != "4" && opcao != "5") {
+        Console.WriteLine($"Aviso!!! o celular precisa ser ligado para que voce possa usa-lo !!!");
+        opcao = "";
+    }
 
     if (opcao == "0") {
         Console.BackgroundColor = ConsoleColor.DarkRed;
         Console.WriteLine($"FINALIZANDO PROGRAMA...");
         Console.ResetColor();
         Thread.Sleep(2000);
+        Console.Clear();
         break;
     }
 
     else if (opcao == "1") {
-        if (cel.Ligado == true) {
-            Console.WriteLine($"O celular ja esta ligado !!!"); 
-        }
-        else {
-            cel.Ligado = true;
-            Console.WriteLine($"Celular Ligando...");
-            Thread.Sleep(1000);
-        }
+        cel.LigarCelular();
+    }
+
+    else if (opcao == "2") {
+        cel.Telefonar();
+    }
+
+    else if (opcao == "3") {
+       cel.EscreverMsg();
+    }
+
+    else if (opcao == "4") {
+        cel.DesligarCelular();
+    }
+
+    else if (opcao == "5") {
+        cel.MostrarSistema();
     }
 
 }

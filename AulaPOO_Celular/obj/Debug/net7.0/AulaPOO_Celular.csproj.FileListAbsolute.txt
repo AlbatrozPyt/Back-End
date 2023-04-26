@@ -13,3 +13,18 @@ C:\Users\24004134870\Desktop\AulaPOO_Celular\obj\Debug\net7.0\refint\AulaPOO_Cel
 C:\Users\24004134870\Desktop\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.pdb
 C:\Users\24004134870\Desktop\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.genruntimeconfig.cache
 C:\Users\24004134870\Desktop\AulaPOO_Celular\obj\Debug\net7.0\ref\AulaPOO_Celular.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\bin\Debug\net7.0\AulaPOO_Celular.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\bin\Debug\net7.0\AulaPOO_Celular.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\bin\Debug\net7.0\AulaPOO_Celular.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\bin\Debug\net7.0\AulaPOO_Celular.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\bin\Debug\net7.0\AulaPOO_Celular.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\refint\AulaPOO_Celular.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\AulaPOO_Celular.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\AulaPOO_Celular\obj\Debug\net7.0\ref\AulaPOO_Celular.dll
