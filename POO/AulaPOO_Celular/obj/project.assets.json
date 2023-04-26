@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Back-End\\AulaPOO_Celular\\AulaPOO_Celular.csproj",
+      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Back-End\\POO\\AulaPOO_Celular\\AulaPOO_Celular.csproj",
       "projectName": "AulaPOO_Celular",
-      "projectPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\AulaPOO_Celular\\AulaPOO_Celular.csproj",
+      "projectPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\POO\\AulaPOO_Celular\\AulaPOO_Celular.csproj",
       "packagesPath": "C:\\Users\\24004134870\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\AulaPOO_Celular\\obj\\",
+      "outputPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\POO\\AulaPOO_Celular\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\24004134870\\AppData\\Roaming\\NuGet\\NuGet.Config",
