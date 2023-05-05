@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\bin\Debug\net7.0\Projeto_Cafeteira.exe
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\bin\Debug\net7.0\Projeto_Cafeteira.deps.json
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\bin\Debug\net7.0\Projeto_Cafeteira.runtimeconfig.json
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\bin\Debug\net7.0\Projeto_Cafeteira.dll
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\bin\Debug\net7.0\Projeto_Cafeteira.pdb
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\Projeto_Cafeteira.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\Projeto_Cafeteira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\Projeto_Cafeteira.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\Projeto_Cafeteira.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\Projeto_Cafeteira.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\Projeto_Cafeteira.dll
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\refint\Projeto_Cafeteira.dll
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\Projeto_Cafeteira.pdb
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\Projeto_Cafeteira.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Projeto_Cafeteira\obj\Debug\net7.0\ref\Projeto_Cafeteira.dll

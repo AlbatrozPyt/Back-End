@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.exe
+C:\Users\24004134870\Desktop\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.deps.json
+C:\Users\24004134870\Desktop\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.runtimeconfig.json
+C:\Users\24004134870\Desktop\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.dll
+C:\Users\24004134870\Desktop\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.pdb
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.dll
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\refint\Projeto_Elevador.dll
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.pdb
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\ref\Projeto_Elevador.dll
