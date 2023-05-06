@@ -2,38 +2,53 @@ namespace Projeto_Cafeteira
 {
     public class MaquinaCafe
     {
-        public float AcucarDisponivel {get; set;} = 100;
+        public float AcucarDisponivel { get; set; }
 
         // Metodos
-        public void FazerCafe() {
-            bool r;
-            string op = "";
-            float acucar = 0;
+        public void FazerCafe()
+        {
+            float acucar = 10;
+
+            float gramas = this.AcucarDisponivel - acucar;
 
             Console.WriteLine($"");
-            
-            do {
-                Console.Write("Digite quantas Gramas de acucar vai querer: ");
-                op = Console.ReadLine()!;
 
-                r = float.TryParse(op, out acucar); 
+            if (this.AcucarDisponivel <= 0) {
+                Console.WriteLine($"O açucar acabou, então, apenas café sem açucar. ");
+            }
 
-                if (r == true) {
-                    acucar = float.Parse(op);
-                }
-                else if (op == "") {
-                    acucar = 10;
-                }
-                else {
-                    Console.WriteLine($"");
-                    
-                    Console.BackgroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"ERRO, digite apenas numeros !!!");
-                    Console.ResetColor();
-                }
+            else {
+                Console.Write("Fazendo Café...");
+                Console.Beep(350, 200);
+                Console.Beep(350, 200);
+                Console.Beep(350, 200);
 
-                
-            } while (r == false);
+                Thread.Sleep(1000);
+
+                Console.WriteLine($"Café Pronto");
+
+                Console.WriteLine($"Adiconados {acucar}g de açucar.");
+            }
+        }
+
+        public void FazerCafe(float acucar) {
+            float gramas = this.AcucarDisponivel - acucar;
+
+            if (this.AcucarDisponivel <= 0) {
+                Console.WriteLine($"O açucar acabou, então, apenas café sem açucar. ");
+            }
+             else {
+                Console.Write("Fazendo Café...");
+                Console.Beep(350, 200);
+                Console.Beep(350, 200);
+                Console.Beep(350, 200);
+
+                Thread.Sleep(1000);
+
+                Console.WriteLine($"Café Pronto");
+
+                Console.WriteLine($"Adiconados {acucar}g de açucar.");
+            }
         }
     }
 }

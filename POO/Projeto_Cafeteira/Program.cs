@@ -12,8 +12,16 @@ using Projeto_Cafeteira;
 
 MaquinaCafe cafe = new MaquinaCafe();
 string opcao = "";
+bool r;
+float acucar;
 
 Console.WriteLine($"");
+
+Console.Write("Quantidade de gramas de açucar da maquina: ");
+cafe.AcucarDisponivel = float.Parse(Console.ReadLine()!);
+
+Console.WriteLine($"");
+
 
 while (true) {
     do {
@@ -41,7 +49,37 @@ while (true) {
     } while (opcao != "1" && opcao != "0");
 
     if (opcao == "1") {
-        cafe.FazerCafe();
+        do {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.Write("Quantas gramas de açucar:");
+            Console.ResetColor();
+            opcao = Console.ReadLine()!;
+
+            r = float.TryParse(opcao, out acucar);
+            
+            if (opcao == "") {
+                break;
+            }
+            
+            if (r == true) {
+                acucar = float.Parse(opcao);
+            }
+            else {
+                Console.WriteLine($"");
+
+                Console.BackgroundColor = ConsoleColor.DarkRed;
+                Console.WriteLine($"ERRO, digite apenas numeros !!!");
+                Console.ResetColor();
+            }
+
+        } while(r == false);
+
+        if (opcao == "" ) {
+            cafe.FazerCafe();
+        }
+        else {
+            cafe.FazerCafe(acucar);
+        }
     }
     else {
         Console.WriteLine($"Finalizando...");
@@ -49,5 +87,6 @@ while (true) {
 
         Console.Clear();
         
+        break;
     }
 }
