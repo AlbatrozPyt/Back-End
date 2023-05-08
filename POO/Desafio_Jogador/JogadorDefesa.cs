@@ -10,14 +10,14 @@ namespace Desafio_Jogador
 
             int aposenta = 40 - idade;
 
-            if (aposenta < idade) {
+           if (aposenta < idade && aposenta != 0) {
                 Console.WriteLine(@$"
-                O jogador já pode se aposentar !!!
+               Ainda faltam {aposenta} Anos para o jogador se aposentar !!!
                 ");
             }
             else {
                 Console.WriteLine(@$"
-                Ainda faltam {aposenta} Anos para o jogador se aposentar !!!
+                 O jogador já pode se aposentar !!!
                 ");
                 
             }

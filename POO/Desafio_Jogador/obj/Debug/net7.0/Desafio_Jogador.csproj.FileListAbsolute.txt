@@ -13,3 +13,18 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Desafio_Jogador\obj\Debug\net7.0\refin
 C:\Users\mathe\OneDrive\Área de Trabalho\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Desafio_Jogador\obj\Debug\net7.0\ref\Desafio_Jogador.dll
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\bin\Debug\net7.0\Desafio_Jogador.exe
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\bin\Debug\net7.0\Desafio_Jogador.deps.json
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\bin\Debug\net7.0\Desafio_Jogador.runtimeconfig.json
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\bin\Debug\net7.0\Desafio_Jogador.dll
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\bin\Debug\net7.0\Desafio_Jogador.pdb
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.dll
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\refint\Desafio_Jogador.dll
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.pdb
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\Desafio_Jogador.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Back-End\POO\Desafio_Jogador\obj\Debug\net7.0\ref\Desafio_Jogador.dll

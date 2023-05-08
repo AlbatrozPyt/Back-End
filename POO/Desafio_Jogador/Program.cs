@@ -33,35 +33,38 @@ while (true) {
 
     Console.WriteLine($"");
     
+    Console.ForegroundColor = ConsoleColor.DarkCyan;
     Console.WriteLine(@$"
     [ Dados do Jogador ]
     ");
+    Console.ResetColor();
     
     if (opcao == "1") {
+        Console.BackgroundColor = ConsoleColor.DarkBlue;
         Console.Write("Nome do Jogador: ");
         atq.Nome = Console.ReadLine()!;
 
-        Console.WriteLine($"");
         
+        Console.BackgroundColor = ConsoleColor.DarkGreen;
         Console.Write("Ano de Nascimento: ");
         atq.DataDeNascimento = int.Parse(Console.ReadLine()!);
 
-        Console.WriteLine($"");
         
+        Console.BackgroundColor = ConsoleColor.DarkCyan;
         Console.Write("Nacionalidade: ");
         atq.Nacionalidade = Console.ReadLine()!;
         
-        Console.WriteLine($"");
         
+        Console.BackgroundColor = ConsoleColor.DarkMagenta;
         Console.Write("Altura: ");
         atq.Altura = Console.ReadLine()!;
         
-        Console.WriteLine($"");
 
+        Console.BackgroundColor = ConsoleColor.DarkYellow;
         Console.Write("Peso: ");
         atq.Peso = Console.ReadLine()!;
 
-        Console.WriteLine($"");
+        Console.ResetColor();
         
         atq.DadosJogador();
         atq.IdadeJogador();
@@ -69,30 +72,27 @@ while (true) {
     }
 
     if (opcao == "2") {
+        Console.BackgroundColor = ConsoleColor.DarkBlue;
         Console.Write("Nome do Jogador: ");
         mc.Nome = Console.ReadLine()!;
 
-        Console.WriteLine($"");
-        
+        Console.BackgroundColor = ConsoleColor.DarkGreen;        
         Console.Write("Ano de Nascimento: ");
         mc.DataDeNascimento = int.Parse(Console.ReadLine()!);
 
-        Console.WriteLine($"");
-        
+        Console.BackgroundColor = ConsoleColor.DarkCyan;
         Console.Write("Nacionalidade: ");
         mc.Nacionalidade = Console.ReadLine()!;
         
-        Console.WriteLine($"");
-        
+        Console.BackgroundColor = ConsoleColor.DarkMagenta;        
         Console.Write("Altura: ");
         mc.Altura = Console.ReadLine()!;
         
-        Console.WriteLine($"");
-
+        Console.BackgroundColor = ConsoleColor.DarkYellow;
         Console.Write("Peso: ");
         mc.Peso = Console.ReadLine()!;
 
-        Console.WriteLine($"");
+       Console.ResetColor();
         
         mc.DadosJogador();
         mc.IdadeJogador();
@@ -100,31 +100,28 @@ while (true) {
     }
 
      if (opcao == "3") {
+        Console.BackgroundColor = ConsoleColor.DarkBlue;
         Console.Write("Nome do Jogador: ");
         def.Nome = Console.ReadLine()!;
 
-        Console.WriteLine($"");
-        
+        Console.BackgroundColor = ConsoleColor.DarkGreen;
         Console.Write("Ano de Nascimento: ");
         def.DataDeNascimento = int.Parse(Console.ReadLine()!);
 
-        Console.WriteLine($"");
-        
+        Console.BackgroundColor = ConsoleColor.DarkCyan;
         Console.Write("Nacionalidade: ");
         def.Nacionalidade = Console.ReadLine()!;
         
-        Console.WriteLine($"");
-        
+        Console.BackgroundColor = ConsoleColor.DarkMagenta;
         Console.Write("Altura: ");
         def.Altura = Console.ReadLine()!;
         
-        Console.WriteLine($"");
-
+        Console.BackgroundColor = ConsoleColor.DarkYellow;
         Console.Write("Peso: ");
         def.Peso = Console.ReadLine()!;
 
-        Console.WriteLine($"");
-        
+        Console.ResetColor();
+
         def.DadosJogador();
         def.IdadeJogador();
         def.Aposentadoria();
@@ -144,6 +141,14 @@ while (true) {
     } while (opcao != "S" && opcao != "N");
 
     if (opcao == "N") {
+        Console.BackgroundColor = ConsoleColor.DarkRed;
+        Console.WriteLine($"Finalizando...");
+        Console.ResetColor();
+        
+        Thread.Sleep(1000);
+
+        Console.Clear();
+
         break;
     }
 }
