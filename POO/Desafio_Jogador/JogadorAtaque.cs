@@ -1,0 +1,58 @@
+namespace Desafio_Jogador
+{
+    public class JogadorAtaque : Jogador
+    {   
+        // Metodos
+        public override void Aposentadoria()
+        {
+            int DataAtual = DateTime.Now.Year;
+
+            int idade = DataAtual - DataDeNascimento;
+
+            int aposenta = 35 - idade;
+
+            if (aposenta < idade) {
+                Console.WriteLine(@$"
+                O jogador já pode se aposentar !!!
+                ");
+            }
+            else {
+                Console.WriteLine(@$"
+                Ainda faltam {aposenta} Anos para o jogador se aposentar !!!
+                ");
+                
+            }
+            
+        }
+
+        public override void DadosJogador()
+        {
+            Console.WriteLine(@$"
+            -=-=-=-=-=--=-=-=-=-=--=-=-=-=-=--=-=-=-=-=-
+                         DADOS DO JOGADOR
+            -=-=-=-=-=--=-=-=-=-=--=-=-=-=-=--=-=-=-=-=-
+            Nome: {this.Nome}
+            Data de Nascimento: {this.DataDeNascimento}
+            Nacionalidde: {this.Nacionalidade}
+            Altura: {this.Altura}
+            Peso: {this.Peso}
+            -=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=--=-=-=-=-=-
+            ");
+            
+        }
+
+        public override void IdadeJogador()
+        {
+            int DataAtual = DateTime.Now.Year;
+
+            int idade = DataAtual - DataDeNascimento;
+
+            Console.WriteLine(@$"
+            -=-=-=-=-=-=-=-=-=-=-
+            Idade do Jogador: {idade}
+            -=-=-=-=-=-=-=-=-=-=-
+            ");
+            
+        }
+    }
+}

@@ -94,7 +94,7 @@ while (true) {
     }
 
     else if (opcao == "4") {
-        pess.Sair();
+        pess.Descer();
     }
 
     else if (opcao == "0") {

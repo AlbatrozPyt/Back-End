@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Back-End\\POO\\Projeto_Elevador\\Projeto_Elevador.csproj",
-      "projectName": "Projeto_Elevador",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Back-End\\POO\\Projeto_Elevador\\Projeto_Elevador.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Desafio_Jogador\\Desafio_Jogador.csproj",
+      "projectName": "Desafio_Jogador",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Desafio_Jogador\\Desafio_Jogador.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Back-End\\POO\\Projeto_Elevador\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Desafio_Jogador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -17,7 +17,9 @@ float acucar;
 
 Console.WriteLine($"");
 
+Console.BackgroundColor = ConsoleColor.White;
 Console.Write("Quantidade de gramas de açucar da maquina: ");
+Console.ResetColor();
 cafe.AcucarDisponivel = float.Parse(Console.ReadLine()!);
 
 Console.WriteLine($"");
@@ -25,6 +27,7 @@ Console.WriteLine($"");
 
 while (true) {
     do {
+        Console.ForegroundColor = ConsoleColor.DarkCyan;
         Console.WriteLine(@$"
         -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
          SUPER CAFETEIRA TABAJARA PLUS++
@@ -38,6 +41,8 @@ while (true) {
         Console.Write("Escolha uma opcao: ");
         opcao = Console.ReadLine()!;
         
+        Console.ResetColor();
+
         if (opcao != "1" && opcao != "0") {
             Console.WriteLine($"");
             
@@ -74,6 +79,8 @@ while (true) {
 
         } while(r == false);
 
+        cafe.AcucarDisponivel -= acucar;
+
         if (opcao == "" ) {
             cafe.FazerCafe();
         }
@@ -82,7 +89,11 @@ while (true) {
         }
     }
     else {
+        Console.WriteLine($"");
+        
+        Console.BackgroundColor = ConsoleColor.DarkRed;
         Console.WriteLine($"Finalizando...");
+        Console.ResetColor();
         Thread.Sleep(1000);
 
         Console.Clear();

@@ -13,3 +13,18 @@ C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\refint\Projeto_El
 C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.pdb
 C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.genruntimeconfig.cache
 C:\Users\24004134870\Desktop\Projeto_Elevador\obj\Debug\net7.0\ref\Projeto_Elevador.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\bin\Debug\net7.0\Projeto_Elevador.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\refint\Projeto_Elevador.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\Projeto_Elevador.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\obj\Debug\net7.0\ref\Projeto_Elevador.dll

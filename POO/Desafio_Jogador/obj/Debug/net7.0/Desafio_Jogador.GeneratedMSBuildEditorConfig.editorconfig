@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Projeto_Elevador
-build_property.ProjectDir = C:\Users\mathe\OneDrive\Área de Trabalho\Back-End\POO\Projeto_Elevador\
+build_property.RootNamespace = Desafio_Jogador
+build_property.ProjectDir = C:\Users\mathe\OneDrive\Área de Trabalho\Desafio_Jogador\
