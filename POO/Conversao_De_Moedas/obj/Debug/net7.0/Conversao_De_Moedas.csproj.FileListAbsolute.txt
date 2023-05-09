@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\bin\Debug\net7.0\Conversao_De_Moedas.exe
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\bin\Debug\net7.0\Conversao_De_Moedas.deps.json
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\bin\Debug\net7.0\Conversao_De_Moedas.runtimeconfig.json
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\bin\Debug\net7.0\Conversao_De_Moedas.dll
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\bin\Debug\net7.0\Conversao_De_Moedas.pdb
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\Conversao_De_Moedas.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\Conversao_De_Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\Conversao_De_Moedas.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\Conversao_De_Moedas.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\Conversao_De_Moedas.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\Conversao_De_Moedas.dll
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\refint\Conversao_De_Moedas.dll
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\Conversao_De_Moedas.pdb
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\Conversao_De_Moedas.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Conversao_De_Moedas\obj\Debug\net7.0\ref\Conversao_De_Moedas.dll
