@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\bin\Debug\net7.0\Exercicio_Construtor.exe
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\bin\Debug\net7.0\Exercicio_Construtor.deps.json
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\bin\Debug\net7.0\Exercicio_Construtor.runtimeconfig.json
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\bin\Debug\net7.0\Exercicio_Construtor.dll
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\bin\Debug\net7.0\Exercicio_Construtor.pdb
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\Exercicio_Construtor.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\Exercicio_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\Exercicio_Construtor.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\Exercicio_Construtor.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\Exercicio_Construtor.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\Exercicio_Construtor.dll
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\refint\Exercicio_Construtor.dll
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\Exercicio_Construtor.pdb
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\Exercicio_Construtor.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Exercicio_Construtor-Listas\obj\Debug\net7.0\ref\Exercicio_Construtor.dll

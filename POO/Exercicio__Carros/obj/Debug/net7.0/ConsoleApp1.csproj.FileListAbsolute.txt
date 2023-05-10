@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Exercicio_lista_Carros\obj\Debug\net7.0\ref\ConsoleApp1.dll
