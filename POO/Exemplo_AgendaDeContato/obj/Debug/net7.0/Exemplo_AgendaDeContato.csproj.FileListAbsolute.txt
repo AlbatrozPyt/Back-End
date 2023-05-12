@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\bin\Debug\net7.0\Exemplo_AgendaDeContato.exe
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\bin\Debug\net7.0\Exemplo_AgendaDeContato.deps.json
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\bin\Debug\net7.0\Exemplo_AgendaDeContato.runtimeconfig.json
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\bin\Debug\net7.0\Exemplo_AgendaDeContato.dll
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\bin\Debug\net7.0\Exemplo_AgendaDeContato.pdb
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\Exemplo_AgendaDeContato.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\Exemplo_AgendaDeContato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\Exemplo_AgendaDeContato.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\Exemplo_AgendaDeContato.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\Exemplo_AgendaDeContato.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\Exemplo_AgendaDeContato.dll
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\refint\Exemplo_AgendaDeContato.dll
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\Exemplo_AgendaDeContato.pdb
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\Exemplo_AgendaDeContato.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Exemplo_AgendaDeContato\obj\Debug\net7.0\ref\Exemplo_AgendaDeContato.dll
