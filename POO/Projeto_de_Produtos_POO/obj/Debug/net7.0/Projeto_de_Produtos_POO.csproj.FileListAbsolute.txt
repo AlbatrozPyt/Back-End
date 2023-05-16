@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\Projeto_de_Produtos_POO.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\Projeto_de_Produtos_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\Projeto_de_Produtos_POO.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\Projeto_de_Produtos_POO.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\Projeto_de_Produtos_POO.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\bin\Debug\net7.0\Projeto_de_Produtos_POO.exe
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\bin\Debug\net7.0\Projeto_de_Produtos_POO.deps.json
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\bin\Debug\net7.0\Projeto_de_Produtos_POO.runtimeconfig.json
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\bin\Debug\net7.0\Projeto_de_Produtos_POO.dll
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\bin\Debug\net7.0\Projeto_de_Produtos_POO.pdb
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\Projeto_de_Produtos_POO.dll
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\refint\Projeto_de_Produtos_POO.dll
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\Projeto_de_Produtos_POO.pdb
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\Projeto_de_Produtos_POO.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Projeto_de_Produtos_POO\obj\Debug\net7.0\ref\Projeto_de_Produtos_POO.dll
