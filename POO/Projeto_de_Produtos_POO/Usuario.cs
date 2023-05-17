@@ -10,16 +10,34 @@ namespace Projeto_de_Produtos_POO
         public DateTime DataDeCadastro { get; set; }
 
         // Metodos
-        public void Cadastrar(Usuario _usuario) {
+        public void Cadastrar()
+        {
+
+            Usuario _usuario = new Usuario();
+            Console.Write("Codigo: ");
+            _usuario.Codigo = int.Parse(Console.ReadLine()!);
+
+            Console.Write("Nome do Usuario: ");
+            _usuario.Nome = Console.ReadLine()!;
+
+            Console.Write("Email do Usuario: ");
+            _usuario.Email = Console.ReadLine()!;
+
+            Console.Write("Senha do Usuario: ");
+            _usuario.Senha = Console.ReadLine()!;
+
             Usuarios.Add(_usuario);
+
         }
 
-        public void Deletar(int c) {   
+        public void Deletar(int c)
+        {
             int user = Usuarios.FindIndex(x => x.Codigo == c);
             Usuarios.RemoveAt(user);
         }
 
-        public void Listar() {
+        public void Listar()
+        {
             foreach (var item in Usuarios)
             {
                 Console.WriteLine(@$"

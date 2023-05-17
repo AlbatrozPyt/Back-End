@@ -11,44 +11,97 @@ namespace Projeto_de_Produtos_POO
             Produto _produto = new Produto();
             Usuario _usuario = new Usuario();
 
-            _marca.Codigo = "100";
-            _marca.NomeDaMarca = "Nike";
-            _marca.DataDeCadastro = DateTime.Now;
+           for (int i = 0; i < 3; i++)
+           {
+            _produto.Cadastrar();
+           }
+           _produto.Listar();
 
-            _produto.Codigo = "123";
-            _produto.NomeDoProduto = "Air Max 90";
-            _produto.Preco = 1000f;
-            _produto.Marca = _marca;
-            _produto.CadastradoPor = "Matheus";
-            _produto.DataDeCadastro = DateTime.Now;
+           _produto.Deletar(3);
 
-            _marca.Cadastrar(_marca);
-            _marca.Listar();
+           _produto.Listar();
+        }
 
-            _produto.Cadastrar(_produto);
-            _produto.Listar();
+        // LOGAR
+        public void Logar()
+        {
+            Usuario _usuario = new Usuario();
+            string email;
+            string senha;
 
-            _usuario.Codigo = 123;
-            _usuario.Nome = "Matheus";
-            _usuario.Email = "emaila@email";
-            _usuario.Senha = "Pipoca";
-            _usuario.DataDeCadastro = DateTime.Now;
+            Console.WriteLine($"");
 
-            _usuario.Cadastrar(_usuario);
-            _usuario.Listar();
+            if (Logado == false)
+            {
+                do
+                {
+                    Console.Write("Digite seu Email: ");
+                    email = Console.ReadLine()!;
 
-            _usuario.Codigo = 321;
-            _usuario.Nome = "Murillo";
-            _usuario.Email = "emailb@email";
-            _usuario.Senha = "Romeu";
-            _usuario.DataDeCadastro = DateTime.Now;
+                    Console.Write("Digite sua senha: ");
+                    senha = Console.ReadLine()!;
 
-            _usuario.Cadastrar(_usuario);
-            _usuario.Listar();
+                    if (email != _usuario.Email && senha != _usuario.Senha)
+                    {
+                        Console.WriteLine($"");
 
-            _usuario.Deletar(321);
-            _usuario.Listar();
-           
+                        Console.BackgroundColor = ConsoleColor.DarkRed;
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine($"ERRO, email ou senha errados !!!");
+                        Console.ResetColor();
+
+                        Console.WriteLine($"");
+                    }
+
+                } while (email != _usuario.Email && senha != _usuario.Senha);
+                Console.WriteLine($"Voce fez o login.");
+                
+            }
+            else
+            {
+                Console.WriteLine($"Voce ja esta logado !!!");
+            }
+            Logado = true;
+        }
+
+        public void Deslogar()
+        {
+            Usuario _usuario = new Usuario();
+            string email;
+            string senha;
+
+            Console.WriteLine($"");
+
+            if (Logado == true)
+            {
+                do
+                {
+                    Console.Write("Digite seu Email: ");
+                    email = Console.ReadLine()!;
+
+                    Console.Write("Digite sua senha: ");
+                    senha = Console.ReadLine()!;
+
+                    if (email != _usuario.Email && senha != _usuario.Senha)
+                    {
+                        Console.WriteLine($"");
+
+                        Console.BackgroundColor = ConsoleColor.DarkRed;
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine($"ERRO, email ou senha errados !!!");
+                        Console.ResetColor();
+
+                        Console.WriteLine($"");
+                    }
+
+                } while (email != _usuario.Email && senha != _usuario.Senha);
+                Console.WriteLine($"Voce fez o logout.");
+            }
+            else
+            {
+                Console.WriteLine($"Voce ja esta deslogado !!!");
+            }
+            Logado = false;
         }
     }
 }
