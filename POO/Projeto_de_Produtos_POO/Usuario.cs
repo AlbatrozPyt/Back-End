@@ -6,7 +6,7 @@ namespace Projeto_de_Produtos_POO
         public string Nome { get; set; }
         public string Email { get; set; }
         public string Senha { get; set; }
-        public List<Usuario> Usuarios { get; set; }
+        public List<Usuario> Usuarios { get; set; } = new List<Usuario>();
         public DateTime DataDeCadastro { get; set; }
 
         // Metodos
@@ -14,8 +14,9 @@ namespace Projeto_de_Produtos_POO
             Usuarios.Add(_usuario);
         }
 
-        public void Deletar() {   
-            Usuarios.Remove();
+        public void Deletar(int c) {   
+            int user = Usuarios.FindIndex(x => x.Codigo == c);
+            Usuarios.RemoveAt(user);
         }
 
         public void Listar() {

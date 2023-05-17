@@ -48,6 +48,7 @@ namespace Projeto_de_Produtos_POO
 
             _usuario.Deletar(321);
             _usuario.Listar();
+           
         }
     }
 }
