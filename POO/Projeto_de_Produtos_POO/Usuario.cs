@@ -2,10 +2,10 @@ namespace Projeto_de_Produtos_POO
 {
     public class Usuario
     {
-        public int Codigo { get; set; }
-        public string Nome { get; set; }
-        public string Email { get; set; }
-        public string Senha { get; set; }
+        public int Codigo { get; set; } = 1234;
+        public string Nome { get; set; } = "Matheus";
+        public string Email { get; set; } = "a";
+        public string Senha { get; set; } = "7";
         public List<Usuario> Usuarios { get; set; } = new List<Usuario>();
         public DateTime DataDeCadastro { get; set; }
 
