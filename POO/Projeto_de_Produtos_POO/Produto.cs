@@ -26,6 +26,7 @@ namespace Projeto_de_Produtos_POO
             Console.Write("Digite o codigo do produto: ");
             _produto.Codigo = int.Parse(Console.ReadLine()!);
 
+
             Console.Write("Digite o nome do produto: ");
             _produto.NomeDoProduto = Console.ReadLine()!;
 
@@ -86,7 +87,7 @@ namespace Projeto_de_Produtos_POO
 
             else
             {
-                
+
                 foreach (var item in Produtos)
                 {
                     Console.ForegroundColor = ConsoleColor.Magenta;
@@ -94,14 +95,14 @@ namespace Projeto_de_Produtos_POO
                 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
                 Codigo: {item.Codigo}
                 Nome do Produto: {item.NomeDoProduto}
-                Preço: {item.Preco}
+                Preço: {item.Preco:C2}
                 Codigo da Marca: {_Marca.Codigo} 
                 Nome da Marca: {_Marca.NomeDaMarca}
                 Data de Cadastro ({item.DataDeCadastro})
                 Cadastrado Por ({item.CadastradoPor.Nome})
                 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
                 ");
-                Console.ResetColor();
+                    Console.ResetColor();
                 }
             }
         }

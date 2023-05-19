@@ -19,10 +19,10 @@ namespace Projeto_de_Produtos_POO
                 {
                     string email;
                     string senha;
-                    Console.ForegroundColor = ConsoleColor.DarkCyan;
+
                     do
                     {
-
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
                         Console.WriteLine(@$"
                     -=-=-=-=-=-=-
                         LOGIN
@@ -52,9 +52,10 @@ namespace Projeto_de_Produtos_POO
 
                 Console.WriteLine($"");
 
-                Console.ForegroundColor = ConsoleColor.Yellow;
+
                 do
                 {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.WriteLine(@$"
                 -=-=-=-=-=-=-=-=-=-=-=-
                 1 - Adicionar Produto
