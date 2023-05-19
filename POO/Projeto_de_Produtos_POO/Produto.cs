@@ -18,6 +18,7 @@ namespace Projeto_de_Produtos_POO
             Produto _produto = new Produto();
             Usuario _usuario = new Usuario();
             Marca _marca = new Marca();
+            _produto._Marca = new Marca();
 
             Console.WriteLine($"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
 
@@ -37,7 +38,10 @@ namespace Projeto_de_Produtos_POO
 
             _produto.CadastradoPor = _usuario;
 
-           _produto._Marca = _marca.Cadastrar();
+            _Marca = _marca.Cadastrar();
+            _produto._Marca = _Marca;
+
+            Console.WriteLine($"{_Marca.Codigo}, {_Marca.NomeDaMarca}, {_Marca.DataDeCadastro}");
 
             Produtos.Add(_produto);
 
@@ -70,18 +74,18 @@ namespace Projeto_de_Produtos_POO
         public void Listar()
         {
 
-            // if (Produtos.Count == 0)
-            // {
-            //     Console.WriteLine($"");
+            if (Produtos.Count == 0)
+            {
+                Console.WriteLine($"");
 
-            //     Console.BackgroundColor = ConsoleColor.White;
-            //     Console.ForegroundColor = ConsoleColor.Black;
-            //     Console.WriteLine($"Nao tem nada na lista.");
-            //     Console.ResetColor();
-            // }
+                Console.BackgroundColor = ConsoleColor.White;
+                Console.ForegroundColor = ConsoleColor.Black;
+                Console.WriteLine($"Nao tem nada na lista.");
+                Console.ResetColor();
+            }
 
-            // else
-            // {
+            else
+            {
 
                 foreach (var item in Produtos)
                 {
@@ -90,13 +94,14 @@ namespace Projeto_de_Produtos_POO
                 Codigo: {item.Codigo}
                 Nome do Produto: {item.NomeDoProduto}
                 Preço: {item.Preco}
-                Marca: {item._Marca.NomeDaMarca}
+                Codigo da Marca: {_Marca.Codigo} 
+                Nome da Marca: {_Marca.NomeDaMarca}
                 Data de Cadastro ({item.DataDeCadastro})
                 Cadastrado Por ({item.CadastradoPor.Nome})
                 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
                 ");
                 }
-            // }
+            }
         }
 
 

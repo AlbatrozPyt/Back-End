@@ -24,20 +24,11 @@ namespace Projeto_de_Produtos_POO
             _marca.DataDeCadastro = DateTime.Now;
 
             Marcas.Add(_marca);
-            // foreach (var item in Marcas)
-            // {
-            //     Console.WriteLine(@$"
-            //     -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-            //     Marca: {item.NomeDaMarca}
-            //     Codigo da Marca: {item.Codigo}
-            //     Data de Cadastro ({item.DataDeCadastro})
-            //     -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-            //     ");
-            // }
+           
 
-            // Console.BackgroundColor = ConsoleColor.DarkGreen;
-            // Console.WriteLine($"Marca Adicionada...");
-            // Console.ResetColor();
+            Console.BackgroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine($"Marca Adicionada...");
+            Console.ResetColor();
 
             return _marca;
         }
@@ -65,17 +56,17 @@ namespace Projeto_de_Produtos_POO
 
         public void Listar()
         {
-            // if (Marcas.Count == 0)
-            // {
-            //     Console.WriteLine($"");
+            if (Marcas.Count == 0)
+            {
+                Console.WriteLine($"");
 
-            //     Console.BackgroundColor = ConsoleColor.White;
-            //     Console.ForegroundColor = ConsoleColor.Black;
-            //     Console.WriteLine($"Nao tem nada na lista.");
-            //     Console.ResetColor();
-            // }
-            // else
-            // {
+                Console.BackgroundColor = ConsoleColor.White;
+                Console.ForegroundColor = ConsoleColor.Black;
+                Console.WriteLine($"Nao tem nada na lista.");
+                Console.ResetColor();
+            }
+            else
+            {
                 foreach (var item in Marcas)
                 {
                     Console.WriteLine(@$"
@@ -86,7 +77,7 @@ namespace Projeto_de_Produtos_POO
                 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
                 ");
                 }
-            // }
+            }
         }
     }
 }
