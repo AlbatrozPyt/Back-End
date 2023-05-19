@@ -6,13 +6,14 @@ namespace Projeto_de_Produtos_POO
         public string NomeDaMarca { get; set; }
         public DateTime DataDeCadastro { get; set; }
 
-        List<Marca> Marcas = new List<Marca>();
+        public static List<Marca> Marcas = new List<Marca>();
 
         // Metodos
         public Marca Cadastrar()
         {
             Marca _marca = new Marca();
 
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine($"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
             Console.Write("Digite o codigo da marca: ");
             _marca.Codigo = int.Parse(Console.ReadLine()!);
@@ -20,6 +21,7 @@ namespace Projeto_de_Produtos_POO
             Console.Write("Digite o nome da marca: ");
             _marca.NomeDaMarca = Console.ReadLine()!;
             Console.WriteLine($"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
+            Console.ResetColor();
 
             _marca.DataDeCadastro = DateTime.Now;
 
@@ -69,6 +71,7 @@ namespace Projeto_de_Produtos_POO
             {
                 foreach (var item in Marcas)
                 {
+                    Console.ForegroundColor = ConsoleColor.Blue;
                     Console.WriteLine(@$"
                 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
                 Marca: {item.NomeDaMarca}
@@ -76,6 +79,7 @@ namespace Projeto_de_Produtos_POO
                 Data de Cadastro ({item.DataDeCadastro})
                 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
                 ");
+                Console.ResetColor();
                 }
             }
         }

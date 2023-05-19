@@ -4,8 +4,8 @@ namespace Projeto_de_Produtos_POO
     {
         public int Codigo { get; set; } = 1234;
         public string Nome { get; set; } = "Matheus";
-        public string Email { get; set; } = "a";
-        public string Senha { get; set; } = "7";
+        public string Email { get; set; } = "email@email";
+        public string Senha { get; set; } = "1234";
         public List<Usuario> Usuarios { get; set; } = new List<Usuario>();
         public DateTime DataDeCadastro { get; set; }
 

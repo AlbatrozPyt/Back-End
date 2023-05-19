@@ -20,6 +20,7 @@ namespace Projeto_de_Produtos_POO
             Marca _marca = new Marca();
             _produto._Marca = new Marca();
 
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
 
             Console.Write("Digite o codigo do produto: ");
@@ -33,6 +34,7 @@ namespace Projeto_de_Produtos_POO
 
 
             Console.WriteLine($"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
+            Console.ResetColor();
 
             _produto.DataDeCadastro = DateTime.Now;
 
@@ -40,8 +42,6 @@ namespace Projeto_de_Produtos_POO
 
             _Marca = _marca.Cadastrar();
             _produto._Marca = _Marca;
-
-            Console.WriteLine($"{_Marca.Codigo}, {_Marca.NomeDaMarca}, {_Marca.DataDeCadastro}");
 
             Produtos.Add(_produto);
 
@@ -86,9 +86,10 @@ namespace Projeto_de_Produtos_POO
 
             else
             {
-
+                
                 foreach (var item in Produtos)
                 {
+                    Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.WriteLine(@$"
                 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
                 Codigo: {item.Codigo}
@@ -100,6 +101,7 @@ namespace Projeto_de_Produtos_POO
                 Cadastrado Por ({item.CadastradoPor.Nome})
                 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
                 ");
+                Console.ResetColor();
                 }
             }
         }
