@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Projeto_de_Produtos_POO
-build_property.ProjectDir = c:\Users\24004134870\Desktop\Back-End\POO\Projeto_de_Produtos_POO\
+build_property.RootNamespace = Console_MVC
+build_property.ProjectDir = C:\Users\24004134870\Desktop\Console_MVC\
