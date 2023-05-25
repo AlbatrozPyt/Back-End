@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\Console_MVC_Fixacao.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\Console_MVC_Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\Console_MVC_Fixacao.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\Console_MVC_Fixacao.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\Console_MVC_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\bin\Debug\net7.0\Console_MVC_Fixacao.exe
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\bin\Debug\net7.0\Console_MVC_Fixacao.deps.json
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\bin\Debug\net7.0\Console_MVC_Fixacao.runtimeconfig.json
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\bin\Debug\net7.0\Console_MVC_Fixacao.dll
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\bin\Debug\net7.0\Console_MVC_Fixacao.pdb
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\Console_MVC_Fixacao.dll
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\refint\Console_MVC_Fixacao.dll
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\Console_MVC_Fixacao.pdb
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\Console_MVC_Fixacao.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\Console_MVC_Fixacao\obj\Debug\net7.0\ref\Console_MVC_Fixacao.dll
