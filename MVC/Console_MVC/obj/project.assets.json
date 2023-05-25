@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Console_MVC\\Console_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\24004134870\\Desktop\\Back-End\\MVC\\Console_MVC\\Console_MVC.csproj",
       "projectName": "Console_MVC",
-      "projectPath": "C:\\Users\\24004134870\\Desktop\\Console_MVC\\Console_MVC.csproj",
+      "projectPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\MVC\\Console_MVC\\Console_MVC.csproj",
       "packagesPath": "C:\\Users\\24004134870\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\24004134870\\Desktop\\Console_MVC\\obj\\",
+      "outputPath": "C:\\Users\\24004134870\\Desktop\\Back-End\\MVC\\Console_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\24004134870\\AppData\\Roaming\\NuGet\\NuGet.Config",

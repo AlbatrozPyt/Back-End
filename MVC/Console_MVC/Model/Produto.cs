@@ -16,22 +16,21 @@ namespace Console_MVC.Model
         {
             // CRIAR A LOGICA PARA GERAR A PASTA E O ARQUIVO
 
-            // OBTER O CAMINHO DA PASTA
-            string pasta = PATH.Split("/")[0];
+            string pasta = PATH.Split("/")[0];  // OBTER O CAMINHO DA PASTA
 
-            // VERIFCAR SE NO CAMINHO JA EXISTE UMA PASTA
-            if (!Directory.Exists(pasta))
+           
+            if (!Directory.Exists(pasta))    // VERIFCAR SE NO CAMINHO JA EXISTE UMA PASTA
             {
                 Directory.CreateDirectory(pasta);
             }
 
-            // VERIFICAR SE NO CAMINHO JA EXISTE UM ARQUIVO
-            if (!File.Exists(PATH))
+          
+            if (!File.Exists(PATH))  // VERIFICAR SE NO CAMINHO JA EXISTE UM ARQUIVO
             {
                 File.Create(PATH);
             }
 
-            
+
         }
 
         public List<Produto> Ler()
@@ -49,24 +48,24 @@ namespace Console_MVC.Model
                 p.Codigo = int.Parse(atributos[0]);
                 p.Nome = atributos[1];
                 p.Preco = float.Parse(atributos[2]);
-                
+
                 produtos.Add(p);
             }
-            
+
             return produtos;
         }
-    
+
         // METODOS PARA PREPARR AS LINHAS A SEREM INSERIDAS NO CSV
-        public string PrepararLinhasCSV(Produto p) 
+        public string PrepararLinhasCSV(Produto p)
         {
             return $"{p.Codigo};{p.Nome};{p.Preco}";
         }
 
-        public void Inserir(Produto p) 
+        public void Inserir(Produto p)
         {
-            string[] linhas = {PrepararLinhasCSV(p)}; // ARRAY QUE ARMAZENA AS LINHAS OBTIDAS PELO METODO
+            string[] linhas = { PrepararLinhasCSV(p) }; // ARRAY QUE ARMAZENA AS LINHAS OBTIDAS PELO METODO
 
-            File.AppendAllLines(PATH,linhas);
+            File.AppendAllLines(PATH, linhas);
         }
     }
 }
